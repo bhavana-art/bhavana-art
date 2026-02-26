@@ -44,7 +44,7 @@
 
 
 ## 🚀 Skills & Technologies
-## 🛠 Skills & Technologies
+
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
@@ -53,7 +53,7 @@
 
 <h3 align="center">🎨 Frontend & Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,express,php" />
 </p>
 
 <h3 align="center">🗄 Database</h3>
