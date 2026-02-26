@@ -43,27 +43,9 @@
 </p>
 
 
-<h3 align="center">🛠 Tech Stack</h3>
+## 🛠 Skills & Technologies
 
-<p align="center">
-<b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-<br><br>
-
-<b>Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<br><br>
-
-<b>Database</b><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br><br>
-
-<b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-<br><br>
-
-<b>Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
+| 💻 Programming Languages | 🎨 Frontend & Backend | 🗄 Database | 🧰 Tools |
+|--------------------------|-----------------------|------------|----------|
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" /> | <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
 
