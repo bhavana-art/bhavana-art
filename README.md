@@ -25,3 +25,23 @@
   <li>⚡ <b>Mindset is Everything!</b></li>
 </ul>
 
+<h3> 🌐 Connect With Me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yourportfolio.com">
+    <img src="https://skillicons.dev/icons?i=webflow" />
+  </a>
+</p>
+
