@@ -19,9 +19,9 @@
   <li>🌱 Currently learning Data Structures & Algorithms</li><br>
   <li>🚀 Exploring Full Stack Development</li><br>
   <li>🤝 Open to collaborate on Open Source Projects</li><br>
-  <li>📝 Writing technical articles on Medium</li><br>
-  <li>📫 Reach me at: yourmail@gmail.com</li><br>
-  <li>🌐 Portfolio: yourportfolio.com</li><br>
+  <li>📝 Writing technical articles to share my learning journey</li><br>
+  <li>📫 Reach me at: bhavanalotanpatil@gmail.com</li><br>
+  <!-- <li>🌐 Portfolio: yourportfolio.com</li><br> -->
   <li>⚡ <b>Mindset is Everything!</b></li>
 </ul>
 
