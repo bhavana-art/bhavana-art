@@ -28,17 +28,15 @@
 
 <h3> 🌐 Connect With Me</h3>
 
+
 <p align="center">
-  <a href="[https://www.linkedin.com/in/bhavana-patil]">
-    <img src="https://img.shields.io/badge/-?style=flat&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://linkedin.com/in/bhavana-patil">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/its_bhavana">
-    <img src="https://img.shields.io/badge/-?style=flat&logo=instagram&logoColor=E4405F" />
+  <a href="https://instagram.com/its__bhavana__">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/-?style=flat&logo=gmail&logoColor=EA4335" />
-  </a>
+
 </p>
 
