@@ -25,7 +25,7 @@
   <li>⚡ <b>Mindset is Everything!</b></li>
 </ul>
 
-
+</br>
 <h3> 🌐 Connect With Me</h3>
 
 <p align="left">
@@ -43,9 +43,26 @@
 </p>
 
 
+## 🚀 Skills & Technologies
 ## 🛠 Skills & Technologies
 
-| 💻 Programming Languages | 🎨 Frontend & Backend | 🗄 Database | 🧰 Tools |
-|--------------------------|-----------------------|------------|----------|
-| <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" /> | <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+<h3 align="center">🎨 Frontend & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+<h3 align="center">🗄 Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
