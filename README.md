@@ -9,10 +9,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5002&pause=976&color=5F33F7&width=435&lines=A+CS+Engineer;Aspiring+Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
+
+
  
+<p align="center">
+💻 Enjoy programming and sharing knowledge <br>
+🥋 Passionate about Programming & Problem-Solving <br>
+👨‍💻 Love exploring new technologies and domains <br>
+🔭 Currently pursuing B.E. in Computer Science Engineering <br>
+🌱 Currently learning Data Structures and Algorithms <br>
+💭 Looking to collaborate on Open Source Projects <br>
+📝 Writing technical articles on Medium <br>
+💡 Contributing to Open Source is one of my goals <br>
+📫 Reach me at: yourmail@gmail.com <br>
+🎯 Portfolio: yourportfolio.com <br>
+📄 View my Resume <br>
+⚡ Mindset is Everything!
+</p>
 
-💻 Full Stack Developer  
-🌱 Learning DSA  
-🚀 Open Source Enthusiast
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bhavana-art)
