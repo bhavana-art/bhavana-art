@@ -28,15 +28,17 @@
 
 <h3> 🌐 Connect With Me</h3>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/bhavana-patil">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/its__bhavana__">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Nehapat90152587">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
