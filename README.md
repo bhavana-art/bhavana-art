@@ -28,7 +28,7 @@
 
 <h3> 🌐 Connect With Me</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/bhavana-patil">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -41,4 +41,29 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+<b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<br><br>
+
+<b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br><br>
+
+<b>Database</b><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br><br>
+
+<b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<br><br>
+
+<b>Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
