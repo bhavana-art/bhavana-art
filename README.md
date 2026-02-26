@@ -10,20 +10,17 @@
   </a>
 </p>
 
+<h3 align="center">👩‍💻 About Me</h3>
 
- 
-<p >
-💻 Enjoy programming and sharing knowledge <br>
-🥋 Passionate about Programming & Problem-Solving <br>
-👨‍💻 Love exploring new technologies and domains <br>
-🔭 Currently pursuing B.E. in Computer Science Engineering <br>
-🌱 Currently learning Data Structures and Algorithms <br>
-💭 Looking to collaborate on Open Source Projects <br>
-📝 Writing technical articles on Medium <br>
-💡 Contributing to Open Source is one of my goals <br>
-📫 Reach me at: yourmail@gmail.com <br>
-🎯 Portfolio: yourportfolio.com <br>
-📄 View my Resume <br>
-⚡ Mindset is Everything!
-</p>
+<ul>
+  <li>💻 Passionate about Programming & Problem-Solving</li><br>
+  <li>🎓 Pursuing B.E. in Computer Science Engineering</li><br>
+  <li>🌱 Currently learning Data Structures & Algorithms</li><br>
+  <li>🚀 Exploring Full Stack Development</li><br>
+  <li>🤝 Open to collaborate on Open Source Projects</li><br>
+  <li>📝 Writing technical articles on Medium</li><br>
+  <li>📫 Reach me at: yourmail@gmail.com</li><br>
+  <li>🌐 Portfolio: yourportfolio.com</li><br>
+  <li>⚡ <b>Mindset is Everything!</b></li>
+</ul>
 
