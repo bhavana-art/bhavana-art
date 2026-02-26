@@ -28,7 +28,7 @@
 <h3> 🌐 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://www.linkedin.com/in/bhavana-patil]">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
