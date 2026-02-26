@@ -32,8 +32,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="[https://x.com/Nehapat90152587]">
+    <img src="https://skillicons.dev/icons?i=x" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yourmail@gmail.com">
