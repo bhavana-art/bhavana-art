@@ -12,7 +12,7 @@
 
 
  
-<p align="center">
+<p >
 💻 Enjoy programming and sharing knowledge <br>
 🥋 Passionate about Programming & Problem-Solving <br>
 👨‍💻 Love exploring new technologies and domains <br>
